@@ -1,0 +1,45 @@
+﻿/*start media queary*/
+
+@media (max-width:767px)
+{
+    .navbar-nav > li > a
+    {
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    
+
+    .navbar-brand .port p
+    {
+        padding-top:18px;
+    }
+
+    .subscribe .form-control
+    {
+        margin:20px auto;
+    }
+
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height:none;
+    }
+}
+
+@media(min-width:767px) and (max-width:991px)
+{
+    
+}
+
+
+@media(min-width:992px) and (max-width:1199px)
+{
+    
+}
+
+
+@media(min-width:1200px)
+{
+}
+
+/*end media queary*/

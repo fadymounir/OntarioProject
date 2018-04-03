@@ -1,0 +1,51 @@
+/*start our nav*/
+.cat_nav{
+	margin-top:100px; 
+	color:#fff;
+	
+}
+
+.cat_nav .all{
+	width:150px;
+	margin-bottom:50px;  
+
+}
+.cat_nav .btn{
+	font-size:25px;
+	margin-bottom:10px;
+	margin-right:5px; 
+
+}
+
+
+/*end our nav*/
+
+
+.our_product{
+	margin-top:50px; 
+	color:#fff; 
+}
+	
+.our_product .pro{
+	margin-right:5px;
+	margin-bottom:5px; 
+	padding:5px;
+	border-radius:15px;
+     
+} 
+.our_product .pro img{
+	width:190px;
+	height:130px; 
+	border-radius:10px;  
+}
+
+.our_product .pro p{
+	font-size:18px;     
+}
+
+/*start mix*/
+.our_product .mix {
+	display:none; 
+}
+/*end mix*/
+
